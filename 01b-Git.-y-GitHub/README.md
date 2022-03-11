@@ -55,7 +55,7 @@ Recuerda que hay un caso muy raro donde los archivos tienen dos estados al mismo
 - `git rm`: este comando necesita algunos de los argumentos para poder ejecutarse correctamente:
 
 - `git rm --cached`: Mueve los archivos que le indiquemos al estado Untracked.
-- `git rm --force`: Elimina los archivos de Git y del disco duro. Git guarda el registro de la existencia de los archivos, por lo que podremos recuperarlos si es necesario (pero debemos usar comandos más avanzados).
+- `git rm --force`: Elimina los archivos de Git y del disco duro. Git guarda el registro de la existencia de los archivos, por lo que podremos recuperarlos si es necesario (pero debemos usar coma;dos más avanzados).
 
 ## Qué es un Branch y cómo funciona un Merge?
 
